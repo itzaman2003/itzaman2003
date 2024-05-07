@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 👋 Hi, I’m @Aman
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning B.E in Artificial Intelligence And Machine Learning
+- 💬 Ask me about Data Science Trends and Machine Learning
+
 
 <!--
 **itzaman2003/itzaman2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
