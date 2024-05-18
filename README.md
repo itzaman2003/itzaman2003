@@ -86,18 +86,16 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/pranjal-agarwal-11b543226/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Pranjal12393385"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/pranjaltechsaver/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC_4ygse-QDNkf8Rp3kBS8zg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://profile-summary-for-github.com/user/Pranjal360Agarwal"><img src="https://img.icons8.com/color-glass/48/000000/github--v1.png"/></a>
+<a href = "https://www.linkedin.com/in/amaningle11102003//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://x.com/AmanIngle16"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://profile-summary-for-github.com/user/itzaman2003"><img src="https://img.icons8.com/color-glass/48/000000/github--v1.png"/></a>
 
 
 </p>
 
 ## ❤ Views and Followers ❤
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Pranjal360Agarwal">
+    <img src="https://komarev.com/ghpvc/?username=itzaman2003/">
 </a>
 <a href="https://github.com/itzaman2003?tab=followers"><img src="https://img.shields.io/github/followers/itzaman2003?label=Followers&style=social" alt="GitHub Badge"></a>
 
