@@ -58,7 +58,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Pranjal360Agarwal/github-readme-stats"><img alt="Pranjal Agarwal Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pranjal360Agarwal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/itzaman2003/github-readme-stats"><img alt="Aman Ingle Github Stats" src="https://github-readme-stats.vercel.app/api?username=itzaman2003&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     
   <a href="https://github.com/itzaman2003/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzaman2003&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
