@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pranjal Agarwal</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aman Ingle </h1>
 <h3 align="center">A passionate Software Developer and Programmer from India</h3>
 
 </p>
@@ -13,11 +13,11 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Pranjal360Agarwal)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/itzaman2003/itzaman2003)**
 
-- 📫 How to reach me **pranjal7agarwal@gmail.com**
+- 📫 How to reach me **ingleaman22@gmail.com**
 
-- ⚡ Relaxing fact - **I used to play chess and sprint whenever possible.**
+- ⚡ Relaxing fact - **I used to play Badminton whenever possible.**
 
 ## 🚀 Languages and Tools:
 
@@ -49,8 +49,8 @@
 <p align="center">
     <a>
    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
-    <a href="https://github.com/Pranjal360Agarwal/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pranjal Agarwal streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjal360Agarwal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/itzaman2003/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aman Ingle streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjal360Agarwal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
     </a>
 </p>
@@ -60,7 +60,7 @@
   <br/>
     <a href="https://github.com/Pranjal360Agarwal/github-readme-stats"><img alt="Pranjal Agarwal Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pranjal360Agarwal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     
-  <a href="https://github.com/Pranjal360Agarwal/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjal360Agarwal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/itzaman2003/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzaman2003&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     
@@ -71,13 +71,13 @@
 
 <!--<a href="https://github.com/Pranjal360Agarwal/github-readme-activity-graph"><img alt="Pranjal Agarwal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pranjal360Agarwal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>-->
     
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranjal360Agarwal&bg_color=000000&color=4c4f9e&line=4c5a9e&point=fff5f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itzaman2003&bg_color=000000&color=4c4f9e&line=4c5a9e&point=fff5f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pranjal360Agarwal" alt="Pranjal360Agarwal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzaman2003" alt="itzaman2003" /></a> </p>
 
 <div> 
 <img src="gif.gif" width="300px" alt=gif align="right"> 
@@ -99,13 +99,12 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Pranjal360Agarwal">
 </a>
-<a href="https://github.com/Pranjal360Agarwal?tab=followers"><img src="https://img.shields.io/github/followers/Pranjal360Agarwal?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/itzaman2003?tab=followers"><img src="https://img.shields.io/github/followers/itzaman2003?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <br/>
 
-<p><img align="left" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with diverse people</b> so if you wanna to say <b>hi, I'll be happy to meet you more!</b> :)</em></p>
-
-<a href="https://quine.sh/profile/pranjala99"><img src="https://stats.quine.sh/pranjala99/github?theme=dark" alt="pranjala99's GitHub stats" width="400px"></a>
 
 
-<img height="120" alt="Thank you for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+
+
+<img height="120" alt="Thank you for visiting my profile" width="100%" src="https://github.com/itzaman2003/itzaman2003" />
