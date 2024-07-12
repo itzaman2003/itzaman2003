@@ -50,7 +50,7 @@
     <a>
    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
     <a href="https://github.com/itzaman2003/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aman Ingle streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjal360Agarwal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aman Ingle streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itzaman2003&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
     </a>
 </p>
