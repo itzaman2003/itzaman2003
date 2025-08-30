@@ -1,19 +1,19 @@
 <h1 align="center">Hi there! 👋 I'm Aman Ingle</h1>
-<h3 align="center">🚀 Passionate Software Developer & Programmer from India</h3>
+<h3 align="center">A Passionate Software Developer & Programmer from India</h3>
 
 ---
 
 ## 🙋‍♂️ About Me  
 
-- 🔭 Working on **Development & Machine Learning Projects**.  
-- 🌱 Learning **Data Structures and Algorithms**.  
-- 🤝 Open to collaborating on **Open Source Projects**.  
-- 🌐 Check out my **[Portfolio Website](https://amaningle.vercel.app/)**.  
-- 💻 Explore my work on **[GitHub](https://github.com/itzaman2003)**.  
-- 📫 Reach me at: **ingleaman22@gmail.com**  
-- 🏸 Fun Fact: I love playing **badminton**!  
-
-<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="380" height="280" style="border-radius:20px;" />
+<p align="left">
+- 🔭 I’m currently working on <b>Development & Machine Learning Projects</b>.<br>
+- 🌱 Learning <b>Data Structures and Algorithms</b>.<br>
+- 🤝 Looking to collaborate on <b>Open Source Projects</b>.<br>
+- 🌐 Check out my <a href="https://amaningle.vercel.app/"><b>Portfolio Website</b></a>.<br>
+- 💻 Explore my projects on <a href="https://github.com/itzaman2003"><b>GitHub</b></a>.<br>
+- 📫 Reach me at: <b>ingleaman22@gmail.com</b>.<br>
+- 🏸 Fun Fact: I enjoy playing <b>badminton</b> whenever I can!  
+</p>
 
 ---
 
@@ -29,7 +29,7 @@
     <img src="https://img.icons8.com/color/48/bootstrap.png"/>
     <img src="https://img.icons8.com/color/48/python.png"/>
     <img src="https://img.icons8.com/color/48/nodejs.png"/>
-    <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+    <img src="https://img.icons8.com/fluent/48/mysql-logo.png"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48"/>
     <img src="https://img.icons8.com/color/48/firebase.png"/>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/>
@@ -41,15 +41,23 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 🔥 Contribution Streak  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzaman2003&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="streak"/>
 </p>
 
+---
+
+## 📊 GitHub Stats  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itzaman2003&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzaman2003&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzaman2003&bg_color=000000&color=4c4f9e&line=4c5a9e&point=fff5f5&area=true&hide_border=true"/>
 </p>
 
 ---
@@ -57,7 +65,7 @@
 ## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itzaman2003&theme=onedark&margin-w=10&margin-h=10" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=itzaman2003&theme=onedark&margin-w=10&margin-h=10"/>
 </p>
 
 ---
@@ -74,8 +82,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><br>
   <em><b>I love connecting with diverse people.</b> Feel free to say hi 👋</em>
 </p>
 
----
