@@ -5,12 +5,14 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on Development & Machine Learning Projects.
-- 🌱 Learning **Data Structures and Algorithms**.
-- 👯 Looking to collaborate on **Open Source Projects**.
-- 👨‍💻 Check out my projects at **[My Portfolio](https://github.com/itzaman2003)**.
-- 📫 How to reach me: **ingleaman22@gmail.com**.
+- 🔭 I’m currently working on Development & Machine Learning Projects.  
+- 🌱 Learning **Data Structures and Algorithms**.  
+- 👯 Looking to collaborate on **Open Source Projects**.  
+- 🌐 Check out my portfolio at **[amaningle](https://amaningle.vercel.app/)**.  
+- 👨‍💻 Explore my projects at **[GitHub](https://github.com/itzaman2003)**.  
+- 📫 How to reach me: **ingleaman22@gmail.com**.  
 - 🏸 Fun Fact: I enjoy playing badminton whenever I can!
+
 
 ## 🚀 Languages and Tools
 
