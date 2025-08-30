@@ -3,16 +3,19 @@
 
 <img align="right" alt="Coding" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" style="width:420px; height:300px; border-radius:25px; display:inline-block;" />
 
+---
+
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on Development & Machine Learning Projects.  
+- 🔭 I’m currently working on **Development & Machine Learning Projects**.  
 - 🌱 Learning **Data Structures and Algorithms**.  
 - 👯 Looking to collaborate on **Open Source Projects**.  
-- 🌐 Check out my portfolio at **[amaningle](https://amaningle.vercel.app/)**.  
-- 👨‍💻 Explore my projects at **[GitHub](https://github.com/itzaman2003)**.  
-- 📫 How to reach me: **ingleaman22@gmail.com**.  
-- 🏸 Fun Fact: I enjoy playing badminton whenever I can!
+- 🌐 Check out my **[Portfolio Website](https://amaningle.vercel.app/)**.  
+- 👨‍💻 Explore my projects on **[GitHub](https://github.com/itzaman2003)**.  
+- 📫 Reach me at: **ingleaman22@gmail.com**.  
+- 🏸 Fun Fact: I enjoy playing **badminton** whenever I can!  
 
+---
 
 ## 🚀 Languages and Tools
 
@@ -36,6 +39,8 @@
     <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
 </p>
 
+---
+
 <h2 align="center">🔥 My Contribution Streak 🔥</h2>
 
 <p align="center">
@@ -46,6 +51,8 @@
     <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png" />
 </p>
 
+---
+
 ## 📊 My GitHub Stats
 
 <a href="https://github.com/itzaman2003/github-readme-stats">
@@ -55,9 +62,11 @@
     <img alt="Aman Ingle's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzaman2003&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 
-<b>Note:</b> The "Top Languages" only reflects my public code and does not indicate my experience level.
+<b>Note:</b> The "Top Languages" only reflects my public code and does not indicate my experience level.  
 
 [![Aman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itzaman2003&bg_color=000000&color=4c4f9e&line=4c5a9e&point=fff5f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
 ## 🏆 Achievements
 
@@ -67,13 +76,18 @@
 
 <img src="gif.gif" width="300px" alt="Coding gif" align="right"/>
 
-## Connect with Me:
+---
+
+## 🌐 Connect with Me
 
 <p align="left">
     <a href="https://www.linkedin.com/in/amaningle11102003/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
     <a href="https://x.com/AmanIngle16"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
     <a href="https://github.com/itzaman2003"><img src="https://img.icons8.com/color-glass/48/000000/github--v1.png"/></a>
+    <a href="https://amaningle.vercel.app/"><img src="https://img.icons8.com/external-flat-juicy-fish/48/external-portfolio-user-interface-flat-flat-juicy-fish.png"/></a>
 </p>
+
+---
 
 <p><img align="left" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with diverse people</b>. Feel free to say <b>hi</b>, I'd be happy to meet you!</em></p>
 
